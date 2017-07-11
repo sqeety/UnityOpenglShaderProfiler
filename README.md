@@ -1,0 +1,2 @@
+# UnityOpenglShaderProfiler
+show shader cycles
